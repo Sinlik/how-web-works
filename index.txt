@@ -1,0 +1,16 @@
+What is HTTP? Hyper Text Transfer Protocol. It is a way of how webpages communicate with each other
+What is a URL? Uniform Resource Locator. It is a method of locating a resources which can lead to a web address
+What is DNS? Domian Naming System. A way of naming a webpage so that we can search for it on the web instead of having IP address to type in
+What is a query string? Allows you to type in key value pairs which becomes a string of letters or numbers, which becomes the query value on a search input on a webpage
+What are two HTTP verbs and how are they different? GET allows you to find information on a webpage without changing it. Post allows you to change something on the webpage like in a post. HTTP and HTTPS HTTP is a way of communication to the web, but not secure HTTPS is secure.
+Both a protocols.
+What is an HTTP request? It gets the version of the HTTP protocol to get HTML code of the webpage
+What is an HTTP response? Sending back information of files to the webpage. A statues code, 200 (found), 404 (not found), 301 (moved) etc.
+What is an HTTP header? Give a couple examples of request and response headers you have seen.
+The name, language, date, etc. of the browser you are on. A request header is the server-host name, cookies, information that is chached to the website, etc.
+Response headers are the content type (post, vidoe, picture, js, etc.) When the content was modified, setting cookie information, etc.
+What are the processes that happen when you type “http://somesite.com/some/page.html” into a browser?
+You type a URL and it gets turned into a IP address. You requst infromation to the server so that you can get all the cookies, data, and information
+you last used on the server (if you did). The server responseds with a code, 200 means it received all the information proparlly and that the website is there.
+The browser gets all DOM information to display to the computer screen. The browser asks for those code, or content needed and gets the proper response. The browser
+actually displayes to information on the screen for the user. The URL has a protocol, hostname, port, resource, and query.
